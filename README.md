@@ -1,1 +1,2 @@
 # Moin
+Learning Haskell
